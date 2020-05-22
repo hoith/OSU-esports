@@ -2,7 +2,7 @@ import React from 'react';
 
 export const Projects = () => (
 <div>
-<h2>Ghaith Shan </h2>
+<h2>Oregon State Esports </h2>
 <p>I am broke college Student LLLLLLLLLLLLLLLLLLLLLLLLLL </p>
 <p>LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL</p>
 <p>LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL</p>

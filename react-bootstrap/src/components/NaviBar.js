@@ -17,7 +17,7 @@ const Styles = styled.div`
 export const NaviBar = () => (
 <Styles>
   <Navbar expand="1g" bg="dark" variant="dark">
-    <Navbar.Brand href="/"> Hoith </Navbar.Brand>
+    <Navbar.Brand href="/"> Oregon State Esports </Navbar.Brand>
     <Navbar.Toggle aria-controls="responisve-navbar-nav"/>
     <Navbar.Collapse id="responisve-navbar-nav">
       <Nav>
