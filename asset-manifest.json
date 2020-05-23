@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/OSU-esports/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/OSU-esports/static/js/main.62fff07e.chunk.js",
-    "main.js.map": "/OSU-esports/static/js/main.62fff07e.chunk.js.map",
-    "runtime-main.js": "/OSU-esports/static/js/runtime-main.7fe89880.js",
-    "runtime-main.js.map": "/OSU-esports/static/js/runtime-main.7fe89880.js.map",
-    "static/js/2.db9826ab.chunk.js": "/OSU-esports/static/js/2.db9826ab.chunk.js",
-    "static/js/2.db9826ab.chunk.js.map": "/OSU-esports/static/js/2.db9826ab.chunk.js.map",
-    "index.html": "/OSU-esports/index.html",
-    "precache-manifest.725c9699f12185782e4b2574e20c9ac2.js": "/OSU-esports/precache-manifest.725c9699f12185782e4b2574e20c9ac2.js",
-    "service-worker.js": "/OSU-esports/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/OSU-esports/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.db9826ab.chunk.js.LICENSE.txt": "/OSU-esports/static/js/2.db9826ab.chunk.js.LICENSE.txt"
+    "main.css": "/deploy-website/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/deploy-website/static/js/main.91738585.chunk.js",
+    "main.js.map": "/deploy-website/static/js/main.91738585.chunk.js.map",
+    "runtime-main.js": "/deploy-website/static/js/runtime-main.6e765783.js",
+    "runtime-main.js.map": "/deploy-website/static/js/runtime-main.6e765783.js.map",
+    "static/js/2.17591297.chunk.js": "/deploy-website/static/js/2.17591297.chunk.js",
+    "static/js/2.17591297.chunk.js.map": "/deploy-website/static/js/2.17591297.chunk.js.map",
+    "index.html": "/deploy-website/index.html",
+    "precache-manifest.185b61e45699f3219fc2d3a0103c9494.js": "/deploy-website/precache-manifest.185b61e45699f3219fc2d3a0103c9494.js",
+    "service-worker.js": "/deploy-website/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/deploy-website/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.17591297.chunk.js.LICENSE.txt": "/deploy-website/static/js/2.17591297.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7fe89880.js",
-    "static/js/2.db9826ab.chunk.js",
+    "static/js/runtime-main.6e765783.js",
+    "static/js/2.17591297.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.62fff07e.chunk.js"
+    "static/js/main.91738585.chunk.js"
   ]
 }
