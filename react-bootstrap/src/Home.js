@@ -4,7 +4,7 @@ import React from 'react';
 export const Home = () => (
 <div>
 <h2>OSU Esports </h2>
-<p>Gib Scholarships plz</p>
-<p> ahaha </p>
+<p>LETS GO BEAVERS!</p>
+<p>ITS IN THE GAME! </p>
 </div>
 )
