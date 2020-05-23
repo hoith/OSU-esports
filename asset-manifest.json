@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OSU-esports/static/css/main.69eda509.chunk.css",
+    "main.js": "/OSU-esports/static/js/main.b485a304.chunk.js",
+    "main.js.map": "/OSU-esports/static/js/main.b485a304.chunk.js.map",
+    "runtime-main.js": "/OSU-esports/static/js/runtime-main.7fe89880.js",
+    "runtime-main.js.map": "/OSU-esports/static/js/runtime-main.7fe89880.js.map",
+    "static/js/2.4fa0d8b0.chunk.js": "/OSU-esports/static/js/2.4fa0d8b0.chunk.js",
+    "static/js/2.4fa0d8b0.chunk.js.map": "/OSU-esports/static/js/2.4fa0d8b0.chunk.js.map",
+    "index.html": "/OSU-esports/index.html",
+    "precache-manifest.172b3469d2084afc199d89accc41e576.js": "/OSU-esports/precache-manifest.172b3469d2084afc199d89accc41e576.js",
+    "service-worker.js": "/OSU-esports/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/OSU-esports/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.4fa0d8b0.chunk.js.LICENSE.txt": "/OSU-esports/static/js/2.4fa0d8b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fe89880.js",
+    "static/js/2.4fa0d8b0.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.b485a304.chunk.js"
+  ]
+}
